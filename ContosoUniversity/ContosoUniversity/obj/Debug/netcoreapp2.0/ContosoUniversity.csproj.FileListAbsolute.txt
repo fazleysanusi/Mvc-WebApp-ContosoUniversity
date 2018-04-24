@@ -1,0 +1,11 @@
+D:\source\repo\Mvc-WebApp-ContosoUniversity\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp2.0\ContosoUniversity.deps.json
+D:\source\repo\Mvc-WebApp-ContosoUniversity\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp2.0\ContosoUniversity.runtimeconfig.json
+D:\source\repo\Mvc-WebApp-ContosoUniversity\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp2.0\ContosoUniversity.runtimeconfig.dev.json
+D:\source\repo\Mvc-WebApp-ContosoUniversity\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp2.0\ContosoUniversity.dll
+D:\source\repo\Mvc-WebApp-ContosoUniversity\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp2.0\ContosoUniversity.pdb
+D:\source\repo\Mvc-WebApp-ContosoUniversity\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.csprojResolveAssemblyReference.cache
+D:\source\repo\Mvc-WebApp-ContosoUniversity\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.csproj.CoreCompileInputs.cache
+D:\source\repo\Mvc-WebApp-ContosoUniversity\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.AssemblyInfoInputs.cache
+D:\source\repo\Mvc-WebApp-ContosoUniversity\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.AssemblyInfo.cs
+D:\source\repo\Mvc-WebApp-ContosoUniversity\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.dll
+D:\source\repo\Mvc-WebApp-ContosoUniversity\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.pdb
